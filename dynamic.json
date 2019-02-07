@@ -1,0 +1,64 @@
+{
+	"profile":
+	{
+		"img":"pp.jpg",
+		"name":"sony",
+		"roll":"17A35A0504",
+		"institute":"pragati",
+		"place":"kakinada"
+	},
+    "career":
+    {
+	"info":" to secure a challenging position where i can explore my talents "
+    },
+    "education":
+    [
+    {
+      "sno":"1",
+      "degree":" btech",
+      "institute":"pragati",
+      "yop":"2014"    
+    },
+     {
+      "sno":"2",
+      "degree":" Diploma ",
+      "institute":"APt",
+      "yop":"2017"    
+    },
+     {
+      "sno":"1",
+      "degree":" SSC",
+      "institute":"AMBBS",
+      "yop":"2020"    
+    }
+    ],
+   "languages":
+   [
+   	{
+      "lang":"english"
+   	},
+   	{
+   		"lang":"hindi"
+   	},
+    {
+    	"lang":"telugu"
+    }
+   ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
